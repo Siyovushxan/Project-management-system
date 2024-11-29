@@ -1,2 +1,2 @@
-# project.navoiyuran.uz
-Korxonaga tegishli loyihalar boshqaruv tizimi
+# Project management system
+Kompaniyaga tegishli loyihalar boshqaruv tizimi
